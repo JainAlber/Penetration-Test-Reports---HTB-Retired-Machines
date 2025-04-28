@@ -21,7 +21,7 @@ This repository documents my ongoing project to build professional-grade penetra
 
 | Machine Name | Status | Link |
 |:------------:|:------:|:----:|
-| Lame (HTB) | Completed ✅ | [View Report](./LAME-HTB.pdf) |
+| Lame (HTB) | Completed ✅ | [View Report](./LAME/LAME-HTB.pdf) |
 
 _(More reports coming soon...)_
 
